@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "demos",
+  "info": {
+    "singularName": "demo",
+    "pluralName": "demos",
+    "displayName": "demo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "key1": {
+      "type": "string"
+    },
+    "key2": {
+      "type": "text"
+    },
+    "key3": {
+      "type": "json"
+    }
+  }
+}
